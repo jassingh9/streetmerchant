@@ -1717,20 +1717,11 @@ export const Newegg: Store = {
     {
       brand: 'msi',
       cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137920',
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137946',
       model: 'ventus 3x oc',
       series: '5090',
-      url: 'https://www.newegg.com/p/N82E16814137920',
+      url: 'https://www.newegg.com/p/N82E16814137946',
       itemNumber: '14-137-920',
-    },
-    {
-      brand: 'msi',
-      cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137916',
-      model: 'suprim liquid soc',
-      series: '5090',
-      url: 'https://www.newegg.com/p/N82E16814137916',
-      itemNumber: '14-137-916',
     },
     {
       brand: 'msi',
@@ -1749,24 +1740,6 @@ export const Newegg: Store = {
       series: '5090',
       url: 'https://www.newegg.com/p/N82E16814137918',
       itemNumber: '14-137-918',
-    },
-    {
-      brand: 'msi',
-      cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137919',
-      model: 'gaming trio oc',
-      series: '5090',
-      url: 'https://www.newegg.com/p/N82E16814137919',
-      itemNumber: '14-137-919',
-    },
-    {
-      brand: 'msi',
-      cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137917',
-      model: 'vanguard soc launch edition',
-      series: '5090',
-      url: 'https://www.newegg.com/p/N82E16814137917',
-      itemNumber: '14-137-917',
     },
     {
       brand: 'zotac',
@@ -1902,15 +1875,6 @@ export const Newegg: Store = {
       series: '5080',
       url: 'https://www.newegg.com/p/N82E16814932753',
       itemNumber: '14-932-753',
-    },
-    {
-      brand: 'asus',
-      cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126750',
-      model: 'astral',
-      series: '5090',
-      url: 'https://www.newegg.com/p/N82E16814126750',
-      itemNumber: '14-126-750',
     },
     {
       brand: 'asus',
