@@ -122,6 +122,7 @@ export type Model =
   | 'aorus box'
   | 'aorus x wb'
   | 'aorus elite'
+  | 'argb triple fan oc'
   | 'master ice'
   | 'aorus master 24g'
   | 'aorus master type-c'
